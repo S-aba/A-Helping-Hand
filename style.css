@@ -142,10 +142,11 @@ a:active {
 .helpdesc {
   font-family: Roboto Mono, sans-serif;
   margin-bottom: 3em;
-
 }
 
-
+.helpdesc h2{
+  font-size: 20px;
+}
 
 /* STYLE IMAGES */
 #header1 {
